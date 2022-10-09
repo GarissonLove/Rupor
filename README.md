@@ -1,2 +1,0 @@
-# Rupor
-Test Repos
